@@ -1,0 +1,19 @@
+{
+  "name": "home-thermostat",
+  "version": "1.0.0",
+  "description": "Home thermostat with raspberry pi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Evanlec/home-thermostat.git"
+  },
+  "author": "Evan LeCompte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Evanlec/home-thermostat/issues"
+  },
+  "homepage": "https://github.com/Evanlec/home-thermostat#readme"
+}
